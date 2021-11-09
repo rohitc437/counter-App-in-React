@@ -1,0 +1,32 @@
+.counterValue {
+  background-color: #e2a41e;
+  margin: auto;
+  font-size: 40px;
+  font-weight: 600;
+  color: rgb(241, 31, 31);
+  line-height: 90px;
+}
+
+
+h2{
+    padding: 5px;
+}
+
+button{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 20px;
+    color: white;
+}
+
+button:nth-child(1){
+    background-color: #2dbff8;
+}
+
+button:nth-child(2){
+    background-color: #151615;
+}
+
+button:nth-child(3){
+    background-color: #f7f30c;
+}
